@@ -1,2 +1,1 @@
-The instances of zhaoshilu_instance are used to obtain the results of the overall performance of BPC algorithm.
-The instances of zhaoshilu_instance_20260301 are used to obtained the results of the ablation experiments.
+overall performance of BPC_20260930.zip is used to verify the valid of learning-based multi-column selection strategy, zhaoshilu_instance_20260930.zip is used to verify the valid of SR and UBH in the ablation experiments
